@@ -1,0 +1,3 @@
+[submodule "bag"]
+	path = BAG_framework
+	url = git@github.com:ucb-art/BAG_framework.git
